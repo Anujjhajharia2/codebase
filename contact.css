@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img img{
+    height: 300px;
+    width: 434px;
+    margin-top: 30px;
+    margin-right: 127px;
+    margin-left: -61px;
+}
+
+.list ul{
+    color: black;
+    font-size: 20px;
+    margin-left: 238px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+ 
+}
+.list li
+   {
+        list-style: none;
+    }
+
+
+.main{
+    justify-content: center;
+    display: flex;
+}
+.img
+{
+margin-top: 20px;
+margin-left: 6px;
+height: 125px;
+width: 85px;
+}
+
+
+.list{
+margin-left: 420px;
+margin-top: 44px;
+}
+.contectone  h2{
+color: white;
+padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: white;
+}
+.contectone{
+    font-size: 23px;
+    margin-top: 37px;
+    background-color: #6032ff;
+    height: 680px;
+    width: 100%
+}
+  .one{
+    background-color: white;
+    color: black;
+    font-size: 34px;
+    padding: 1px 28px 7px 24px;
+    margin-left: 38pc;
+    margin-top: 3pc;
+    border: 1px solid white;
+    border-radius: 10px;
+ }  
+
+  .one p{
+    padding-top: 10px;
+  }
+  .oneone img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: absolute;
+    top: -40px;
+    left: 260px;
+}
+.contecttwo{
+    display: flex;
+   
+}
+
+.contectthree{
+    border: 1px solid blue;
+    height: 40px;
+    width: 165px;
+    padding: 7px 10px 5px 23px;
+    background-color: #6032ff;
+    border-radius: 18px;
+    margin-left: 652px;
+    margin-top: 13px;
+    margin-bottom: 24px;
+    color: white;
+}
+
+.contectthree:hover{
+    color: darkblue;
+}
+
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color:#6032ff;
+    margin-top: 39px;
+    padding-top: 1px;
+}
+
+.lastone{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: white;
+}
+.lastbox i{
+    margin:10px;
+}
+
+.last{
+ display: flex;
+}
+ .lastlist{
+    display: flex;
+    margin-left: 550px;
+ }
+
+
+.lastlist a{
+    text-decoration: none;
+      margin:10px;
+    color: white;
+}
+
+
+  

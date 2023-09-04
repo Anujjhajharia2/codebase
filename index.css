@@ -1,0 +1,307 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Poppins', sans-serif;
+}
+
+
+
+.img img{
+    height: 309px;
+    width: 370px;
+    margin-left: -172px;
+}
+
+.list ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+ 
+}
+.list li
+   {
+        list-style: none;
+    }
+
+
+.main{
+    display: flex;
+    margin-left: 303px;
+    font-size: 18px;
+    margin-top: -14px;
+}
+.img
+{
+    margin-top: 20px;
+    margin-left: -20px;
+    height: 150px;
+    width: 100px;
+}
+
+.list{
+    margin-left: 420px;
+    margin-top: 44px;
+}
+
+
+.box{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box2 img{
+    height: 450px;
+    width: 510px;
+    margin-top: -53px;
+    padding-right: 32px;
+}
+
+.box1 button{
+    background-color: blue;
+    font-size: 16px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 2px 10px;
+
+}
+
+.box1
+    {
+        padding-left: 126px;
+
+    }
+.box1 p{
+        
+   font-size: 16px;
+    margin-top: -6px
+        
+    }
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.box1 h1
+{
+
+    font-size: 55px;
+   
+}
+   
+img{
+    height: auto;
+    width: 1070px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+h2{
+    margin-top: 65px;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif
+    
+} 
+
+.one img{
+    height: auto;
+    width: 85px;
+    margin-left: 50px;
+    margin-top: -6px;
+    
+}
+.one{
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 427px;
+    width: 242px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+    .one h5{
+        margin-left: 65px;
+
+    }
+
+    .one h6{
+        margin-top: -14px;
+        margin-left: 33px;
+    }
+
+.one p{
+    font-size: 13px;
+}
+
+.pera{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.pera p{
+    color: white;
+    background-color: grey;
+    border-radius: 30px;
+    padding: 2px 3px;
+    margin-top: 10px;
+    justify-content: center;
+    margin: 2px;
+}
+
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 51px
+}
+
+.earth
+{
+    background-image:url(https://www.thisiscolossal.com/wp-content/uploads/2019/01/world-below-5.jpg);
+    border: 2px solid black;
+    height: 630px;
+    width:100%;
+    margin-top: 185px;
+}
+
+.a1 img{
+    height: 107px;
+    width: auto;
+    margin-left: 85px;
+    margin-top: -9px;
+    margin-bottom: 15px;
+
+}
+
+.a1{
+    background-color: rgba(16, 10,10, 0.8);
+    color: white;
+    height: 324px;
+    width: 333px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 40px
+    
+}
+.a1 p
+{
+    text-align: center;
+    font-size: 20px
+}
+.earth h4{
+
+    color: white;
+    font-size: 50px;
+    text-align:center;
+}
+.a1 h6{
+    font-size: 22px;
+    text-align:center;
+}
+
+.earth1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grey{
+    background-color:#f1f1f1;
+     height: 835px;
+    width: 100%;
+    margin-top: -48px;
+}
+
+
+    
+.main5{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.b1{
+height: auto;
+    width: 26%;
+margin-top: 20px;
+}
+
+.b1 img{
+    height: 70px;
+    width: auto;
+    margin-left: 14px;
+}
+
+.b1 p{
+padding: 10px;
+margin: 2%;
+font-size: 15px;
+}
+
+.b1 h3{
+    text-align: left;
+    margin-left: 15px;
+    font-size: 25px;
+}
+.b2 h3{
+    font-size: 58px;
+    margin-top:40px;
+}
+
+.lastfooter{
+    height:250px;
+    width: 100%;
+    background-color: #6032ff;
+    position: relative;
+  
+}
+.lastfooterr{
+      display: flex;
+      position: absolute;
+      top: 121px;
+    left: 290px;
+}
+
+.footer {
+    height: 350px;
+    width: 100%;
+    background-color: #4e0fea;
+    margin-top: -70px;
+    padding-top: 50px;
+
+}
+
+.lastone{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: white;
+}
+.lastbox i{
+    margin:10px;
+}
+
+.last{
+ display: flex;
+}
+ .lastlist{
+    display: flex;
+    margin-left: 550px;
+ }
+
+
+.lastlist a{
+    text-decoration: none;
+      margin:10px;
+    color: white;
+}
+/* .padd
+{
+    padding: 0,20px;
+} */
